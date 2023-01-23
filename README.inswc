@@ -1,0 +1,7 @@
+In the SWC file,
+Column 1: node number.
+column 2: 
+columns 3-5: x, y, z coordinates.
+remaining columns: material properties and connectivity.
+
+The "in" script uses above SWC and is the input to the 1D solver.
